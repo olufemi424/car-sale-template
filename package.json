@@ -1,0 +1,19 @@
+{
+  "name": "week-8",
+  "version": "1.0.0",
+  "description": "week 8 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olufemi424/responsive_multi_pages_homework.git"
+  },
+  "author": "Olufemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olufemi424/responsive_multi_pages_homework/issues"
+  },
+  "homepage": "https://github.com/olufemi424/responsive_multi_pages_homework#readme"
+}
