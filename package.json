@@ -1,10 +1,10 @@
 {
-  "name": "week-8",
+  "name": "week-8-assignment",
   "version": "1.0.0",
   "description": "week 8 assignment",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d week 8"
+    "deploy": "gh-pages -d dist"
   },
 
   "author": "Olufemi",
