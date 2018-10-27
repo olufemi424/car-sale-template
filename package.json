@@ -4,16 +4,13 @@
   "description": "week 8 assignment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d week 8"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/olufemi424/responsive_multi_pages_homework.git"
-  },
+
   "author": "Olufemi",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/olufemi424/responsive_multi_pages_homework/issues"
-  },
-  "homepage": "https://github.com/olufemi424/responsive_multi_pages_homework#readme"
+  "homepage": "https://olufemi424.github.io/simple_web_assignment",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
