@@ -6,7 +6,6 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-
   "author": "Olufemi",
   "license": "ISC",
   "homepage": "https://olufemi424.github.io/simple_web_assignment",
